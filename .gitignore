@@ -45,8 +45,7 @@ merge_prs.log
 ### Mac OS ###
 .DS_Store
 cookie.json
-# 各平台登录 Cookie（cookies/<platform>.json，含登录态，绝对不能提交）
-cookies/
+# 各平台登�?Cookie（cookies/<platform>.json，含登录态，绝对不能提交�?cookies/
 .env
 chromedriver
 *.jpg
@@ -60,5 +59,8 @@ dist/
 
 # Gradle cache
 .gradle/
-# 持久化浏览器用户数据（含登录态，绝对不能提交）
+# 持久化浏览器用户数据（含登录态，绝对不能提交�?browser-data/
+
+
+bin/
 browser-data/
